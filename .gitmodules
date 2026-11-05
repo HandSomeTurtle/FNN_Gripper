@@ -1,0 +1,9 @@
+[submodule "PlanForge"]
+	path = PlanForge
+	url = https://github.com/HandSomeTurtle/PlanForge.git
+[submodule "fnn-verification"]
+	path = fnn-verification
+	url = https://github.com/HandSomeTurtle/fnn-verification.git
+[submodule "socs26-repo"]
+	path = socs26-repo
+	url = https://github.com/HandSomeTurtle/socs26-repo.git

@@ -1,0 +1,9 @@
+# Build products, generated experiment results, and local environments
+**/target/
+**/output/
+**/__pycache__/
+**/*.py[cod]
+.venv/
+.venv-*/
+**/.cache/
+**/logs/
